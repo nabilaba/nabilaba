@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilaba&layout=compact&theme=github_dark&hide_border=true&hide=stars,issues&show_icons=true&custom_title=Stats" style="width: 70%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nabilaba&layout=compact&theme=github_dark&hide_border=true&hide=stars,issues&show_icons=true&custom_title=My Stats" style="width: 70%;" />
   
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaba&layout=compact&theme=github_dark&hide_border=true&custom_title=Languages" style="width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaba&layout=compact&theme=github_dark&hide_border=true&custom_title=My Languages" style="width: 49%;" />
   <img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true"/>
 </div>
 

@@ -1,4 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<a href="https://www.linkedin.com/in/midhruvjaink/" alt="" target="_parent"><img src="https://img.shields.io/badge/-nabilaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nabilaba/"/></a>
 
 <!--
 **nabilaba/nabilaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nabilaba&layout=compact&theme=github_dark&hide_border=true&hide=stars,issues&show_icons=true" style="width: 80%;" />
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilaba&layout=compact&theme=github_dark&hide_border=true" style="width: 49%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaba&layout=compact&theme=github_dark&hide_border=true" style="width: 49%;" />
+  <img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true"/>
+
 </div>

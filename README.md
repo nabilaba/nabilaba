@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
   
 <div>
-  <img aligm="top" src="https://github-readme-stats.vercel.app/api?username=nabilaba&layout=compact&theme=github_dark&hide_border=true&hide=stars,issues&show_icons=true&custom_title=My Stats" style="width: 59%;" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=nabilaba&layout=compact&theme=github_dark&hide_border=true&hide=stars,issues&show_icons=true&custom_title=My Stats" style="width: 59%;" />
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaba&layout=compact&theme=github_dark&hide_border=true&custom_title=My Languages" style="width: 39%;" />
 </div>
 

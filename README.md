@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <div align="center">
   <a href="https://web.facebook.com/nabil.bima.7/" alt=""><img src="https://img.shields.io/badge/-Nabil Aba-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
   <a href="https://instagram.com/nabilaba" alt=""><img src="https://img.shields.io/badge/-@nabilaba-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>

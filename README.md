@@ -11,6 +11,7 @@
 -->
 <div>
   <ul>
+    About Me
     <li>I’m currently studying on Ruangguru</li>
     <li>I’m currently learning to be Frontend Developer</li>
     <li>I'm 19 years old</li>
@@ -20,7 +21,7 @@
   
 <div>
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=nabilaba&layout=compact&theme=github_dark&hide_border=true&hide=stars,issues&show_icons=true&custom_title=My Stats" style="width: 59%;" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaba&layout=compact&theme=github_dark&hide_border=true&custom_title=My Languages" style="width: 39%;" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaba&layout=compact&theme=github_dark&hide_border=true&custom_title=My Knowledge" style="width: 39%;" />
 </div>
 
   <img src="https://activity-graph.herokuapp.com/graph?username=nabilaba&theme=minimal&bg_color=00000000&hide_border=true&color=fff&hide_title=true" style="width: 100%;" />

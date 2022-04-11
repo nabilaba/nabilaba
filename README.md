@@ -21,7 +21,7 @@
 <div>
   <h5>Contacts</h5>
   <a href="https://web.facebook.com/nabil.bima.7/" alt=""><img src="https://img.shields.io/badge/-Nabil Aba-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/nabilaba" alt=""><img src="https://img.shields.io/badge/-@nabilaba-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/nabil_aba" alt=""><img src="https://img.shields.io/badge/-@nabil_aba-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nabilaba/" alt=""><img src="https://img.shields.io/badge/-nabilaba-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nabilazizbimaanggita@gmail.com" alt=""><img src="https://img.shields.io/badge/-nabilazizbimaanggita@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
  </div>

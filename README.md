@@ -3,10 +3,12 @@
 -->
 <div>
   <h3><img align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> Hey! Nice to see you.</h3>
+  <p>I'm very interested in website development and Android app development as well as batch file generation and shell scripting. I'm also interested in Android OS modification.</p>
   <ul>
-    <li>I’m currently studying on Ruangguru</li>
-    <li>I’m currently learning to be Frontend Developer</li>
-    <li>I'm 19 years old</li>
+    <li>I'm currently studying on Ruangguru</li>
+    <li>I'm currently learning to be Frontend Developer</li>
+    <li>I'm currently one of the AncientOS developers</li>
+    <li>I'm 20 years old</li>
   </ul>
 </div>
   

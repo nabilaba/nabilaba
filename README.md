@@ -14,7 +14,7 @@
   
 <div>
   <h5>Languages</h5>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaba&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaba&theme=buefy&layout=compact" />
 </div>
 <div>
   <h5>Stats</h5>

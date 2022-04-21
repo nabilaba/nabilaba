@@ -14,11 +14,11 @@
   
 <div>
   <h5>Languages</h5>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaba&theme=buefy&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaba&theme=buefy&layout=compact&langs_count=10&hide=java" />
 </div>
 <div>
   <h5>Stats</h5>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nabilaba&layout=compact&theme=vue&hide=stars,issues&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nabilaba&layout=compact&theme=vue&hide=stars,issues&show_icons=true&count_private=true" />
 </div>
 <div>
   <h5>Contacts</h5>

@@ -1,28 +1,43 @@
-<!--
-**nabilaba/nabilaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <div>
-  <h3><img align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> Hey! Nice to see you.</h3>
-  <p>I'm very interested in website development and Android app development as well as batch file generation and shell scripting. I'm also interested in Android OS modification.</p>
-  <ul>
-    <li>I'm currently learning to be Frontend Developer</li>
-    <li>I'm currently one of the AncientOS developers</li>
-    <li>I'm 21 years old</li>
-  </ul>
+  <h1 align="center">Hi 👋, I'm Nabil Aba</h1>
+  <h3 align="center">21 years old 🤓 front end developer from Indonesia 🇮🇩</h3>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=nabilaba" />
+
+<div>
+  <h3>⚡ Status</h3>
   
-<div>
-  <h5>Languages</h5>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaba&theme=buefy&layout=compact&langs_count=10&hide=java" />
+  - 👨‍💻 I'm currently one of the **AncientOS Developer**
+  
+  - 📚 I'm currently learning to be **Frontend Engineering**
+  
+  - 📫 Reach me at **nabilazizbimaanggita@gmail.com**
+  
+  - 💬 Ask me about anything related to **react and chakra-ui**
+  
+  <p>I'm very interested in website development and Android app development as well as batch file generation and shell scripting. I'm also interested in Android OS modification.</p>
 </div>
+
+
 <div>
-  <h5>Stats</h5>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nabilaba&layout=compact&theme=vue&hide=stars,issues&show_icons=true&count_private=true" />
+  <h3>🤘 Most Used Languages</h3>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilaba&theme=dark&langs_count=10&hide=java&layout=compact" />
 </div>
+
+
 <div>
-  <h5>Contacts</h5>
-  <a href="https://web.facebook.com/nabil.bima.7/" alt=""><img src="https://img.shields.io/badge/-Nabil Aba-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/nabil_aba" alt=""><img src="https://img.shields.io/badge/-@nabil_aba-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nabilaba/" alt=""><img src="https://img.shields.io/badge/-nabilaba-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nabilazizbimaanggita@gmail.com" alt=""><img src="https://img.shields.io/badge/-nabilazizbimaanggita@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
- </div>
+  <h3>😉 Favourite Tech</h3>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://chakra-ui.com" target="_blank"> <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg?raw=true" alt="chakra-ui" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40"/> </a>
+  <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" height="40"/> </a>
+</div>
+
+<div>
+  <h3>📈 Github Stats</h3>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nabilaba&layout=compact&theme=dark&hide=issues&show_icons=true&count_private=true" />
+</div>

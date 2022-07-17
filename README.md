@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hi 👋, I'm Nabil Aba</h1>
-  <h3 align="center">21 years old 🤓 front end developer from Indonesia 🇮🇩</h3>
+  <h3 align="center">21 years old 🤓 newbie permanen from Indonesia 🇮🇩</h3>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=nabilaba" />

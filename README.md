@@ -10,7 +10,7 @@
   
   - 👨‍💻 I'm currently one of the **AncientOS Developer**
   
-  - 📚 I'm currently learning to be **Frontend Engineering**
+  - 📚 I'm currently learning to be **Fullstack Engineering**
   
   - 📫 Reach me at **nabilazizbimaanggita@gmail.com**
   
